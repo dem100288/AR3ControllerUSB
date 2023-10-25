@@ -1,0 +1,9 @@
+../Core/Src/cdc_message.c:16:6:SendMessage	16	static
+../Core/Src/cdc_message.c:23:6:FindedHome	16	static
+../Core/Src/cdc_message.c:28:6:JointFindedHome	32	static
+../Core/Src/cdc_message.c:35:6:JointPosition	32	static
+../Core/Src/cdc_message.c:42:6:JointStateMessage	160	static
+../Core/Src/cdc_message.c:50:6:MoveEndMessage	16	static
+../Core/Src/cdc_message.c:55:6:BlockMoveEndMessage	16	static
+../Core/Src/cdc_message.c:60:6:PongMessage	16	static
+../Core/Src/cdc_message.c:65:6:SpeedJointMessage	64	static

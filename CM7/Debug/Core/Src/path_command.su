@@ -1,0 +1,7 @@
+../Core/Src/path_command.c:20:6:AddPathPoint	40	static
+../Core/Src/path_command.c:32:6:ClearPath	4	static
+../Core/Src/path_command.c:37:5:GetNextPoint	16	static
+../Core/Src/path_command.c:46:5:GetNextPointWithStep	16	static
+../Core/Src/path_command.c:57:6:PathMoving	4	static
+../Core/Src/path_command.c:61:6:PathStep	40	static
+../Core/Src/path_command.c:73:6:StartMovePath	8	static

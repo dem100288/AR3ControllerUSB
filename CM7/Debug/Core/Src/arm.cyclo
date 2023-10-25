@@ -1,0 +1,17 @@
+../Core/Src/arm.c:19:6:InitArm	1
+../Core/Src/arm.c:28:6:FindHomeJoint	2
+../Core/Src/arm.c:34:6:FindHomeForce	1
+../Core/Src/arm.c:38:6:FindHomeArm	2
+../Core/Src/arm.c:44:6:FindHomeArmForce	2
+../Core/Src/arm.c:50:6:TickTimerChennel1	2
+../Core/Src/arm.c:56:6:TickTimerChennel2	8
+../Core/Src/arm.c:79:6:SetTargetPosition	1
+../Core/Src/arm.c:83:6:SetTargetPointEqSpeed	8
+../Core/Src/arm.c:126:6:SetTargetPointMaxSpeed	1
+../Core/Src/arm.c:141:6:SetBackToZeroJoint	1
+../Core/Src/arm.c:145:6:SetFullStepsJoint	1
+../Core/Src/arm.c:149:6:SetFindHomeSpeed	1
+../Core/Src/arm.c:153:6:SetMaxSpeed	1
+../Core/Src/arm.c:157:6:ReportJointPosition	1
+../Core/Src/arm.c:161:6:ReportJointState	1
+../Core/Src/arm.c:165:6:ReportJointsState	2

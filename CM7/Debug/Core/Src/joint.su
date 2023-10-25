@@ -1,0 +1,16 @@
+../Core/Src/joint.c:16:6:InitJointInvDirStep	24	static
+../Core/Src/joint.c:46:6:InitJointInvDir	56	static
+../Core/Src/joint.c:60:6:InitJoint	56	static
+../Core/Src/joint.c:73:6:LeadingEdge	16	static
+../Core/Src/joint.c:91:6:TrailingEdge	16	static
+../Core/Src/joint.c:103:6:SetDirectionForward	16	static
+../Core/Src/joint.c:120:6:SetDirectionBackward	16	static
+../Core/Src/joint.c:137:6:ResetPosition	16	static
+../Core/Src/joint.c:142:10:DistanceToTarget	16	static
+../Core/Src/joint.c:146:6:NeedSteps	16	static
+../Core/Src/joint.c:150:6:SetTarget	16	static
+../Core/Src/joint.c:163:6:CheckLimiter	16	static
+../Core/Src/joint.c:167:6:InitProcStart	24	static
+../Core/Src/joint.c:175:6:StepFindHome	16	static
+../Core/Src/joint.c:193:6:TickStepperChanel1	16	static
+../Core/Src/joint.c:205:6:TickStepperChanel2	16	static
